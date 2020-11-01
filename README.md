@@ -1,9 +1,12 @@
 # Spreadsheet-Automations
-This spreadsheets holds formulas and vba code that I created to automate and improve data stored on an internal ticket system between teams that I had to follow up and create solutions to.
 
-My main job on this project was to improve the teams comunication and give support to be reflected on metrics from the team we worked with as well as support general guidelines to solve costumer related issues. 
+This repository contain two version of a spreadsheet I've created years ago and was used for years by the company I worked at the time:
+  - full version used by our team 
+  - simplified version that was given to other teams to use
 
-For that the company had a spredsheet witch started with around 4 columns, as the time went I grew the data to better visualize the scenarios and follow up with effiancy and so I wouldn't spend so much time working the speadsheet and doing the same taks more times I've started learning formulas and slowly coding to automate almost everything I needed and had more time to focus on other things.
+Since I had to remove all sensitive information I added some placeholder information for visualization purposes. I also left all tabs/data/columns visible for demonstration purposes, but I would recomend hide the information meant for keeping data to make navigation easier.
+
+The spreadsheets hold in cell formulas and vba code created to automate and improve data stored on an internal ticket system between teams. 
 
 Some features are:
   - Automatically genarate information based on filters such as graphics
